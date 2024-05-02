@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liston Fermi</h1>
 <h3 align="center">A passionate web developer from India🧑‍💻</h3>
 
-- 👨‍💻 All of my projects are available at [https://listonfermi.github.io/](https://listonfermi.github.io/)
+- 👨‍💻 Look at my portfolio at [https://listonfermi.github.io/](https://listonfermi.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
